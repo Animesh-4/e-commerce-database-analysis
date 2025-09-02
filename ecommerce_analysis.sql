@@ -1,7 +1,3 @@
--- eCommerce Database Analysis
--- Alfikri Ramadhan
--- December 2022
-
 USE mavenfuzzyfactory;
 
 /*
